@@ -1,0 +1,11 @@
+.DS_Store
+.DS_Store?
+._*
+target/
+.settings/
+.idea/
+.project
+.classpath
+log/
+logs/
+*.iml
