@@ -4,7 +4,7 @@ OPC UA Tools (Unified Architecture)标准工具，包括服务器和客户端，
 相关lib文件在[www.unified-automation.com](https://www.unified-automation.com/products/server-sdk/java-ua-server-sdk.html)下载
 
 ## LICENSE
- - Prosys SDK license
+ - Prosys SDK license[Prosys_OPC_UA_Java_SDK_License](/LICENSE/Prosys_OPC_UA_Java_SDK_License.pdf)
 
 ```html
 Prosys OPCUA Java SDK is covered by the license terms in 
