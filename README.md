@@ -3,7 +3,7 @@ OPC UA Tools (Unified Architecture)标准工具，包括服务器和客户端，
 
 相关lib文件在[www.unified-automation.com](https://www.unified-automation.com/products/server-sdk/java-ua-server-sdk.html)下载
 
-## LICENSE
+### LICENSE
  - Prosys SDK license [Prosys_OPC_UA_Java_SDK_License](/LICENSE/Prosys_OPC_UA_Java_SDK_License.pdf)
 
 ```html
@@ -27,6 +27,8 @@ available in the following files.
 |bc*.jar|Bouncy Castle security|[LICENSE.bouncycastle](/LICENSE/LICENSE.bouncycastle)|
 |sc*.jar|Spongy Castle security|[LICENSE.bouncycastle](/LICENSE/LICENSE.bouncycastle)|
 |*slf4j*.jar|Simple Logging Facade for Java (SLF4j)|[LICENSE.slf4j](/LICENSE/LICENSE.slf4j)|
+
+-------------------------
 
 ## OPC UA Client 使用说明
 
