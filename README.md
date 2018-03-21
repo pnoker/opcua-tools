@@ -1,5 +1,7 @@
 # opcua-tools
-OPC UA Tools (Unified Architecture)标准工具，包括服务器和客户端，并提供调用接口（服务器和客户端）
+OPC UA Tools (Unified Architecture)标准工具，包括服务器和客户端，并提供调用接口（服务器和客户端）。
+
+相关lib文件在[www.unified-automation.com](https://www.unified-automation.com/products/server-sdk/java-ua-server-sdk.html)下载
 
 ## LICENSE
  - Prosys SDK license
