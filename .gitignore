@@ -2,6 +2,8 @@
 .DS_Store?
 ._*
 target/
+PKI/
+USERS_PKI/
 .settings/
 .idea/
 .project
