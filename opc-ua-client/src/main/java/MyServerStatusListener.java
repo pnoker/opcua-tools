@@ -1,9 +1,3 @@
-/**
- * Prosys OPC UA Java SDK
- *
- * Copyright (c) Prosys PMS Ltd., <http://www.prosysopc.com>.
- * All rights reserved.
- */
 
 import org.opcfoundation.ua.builtintypes.LocalizedText;
 import org.opcfoundation.ua.core.ServerState;

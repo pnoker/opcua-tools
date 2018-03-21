@@ -1,15 +1,8 @@
-/**
- * Prosys OPC UA Java SDK
- *
- * Copyright (c) Prosys PMS Ltd., <http://www.prosysopc.com>.
- * All rights reserved.
- */
 
 import java.io.IOException;
 import java.net.UnknownHostException;
 import java.util.Locale;
 
-import org.apache.log4j.PropertyConfigurator;
 import org.opcfoundation.ua.builtintypes.DataValue;
 import org.opcfoundation.ua.builtintypes.LocalizedText;
 import org.opcfoundation.ua.core.ApplicationDescription;
@@ -30,7 +23,6 @@ public class SimpleClient {
 	 * @param args
 	 */
 	public static void main(String[] args) throws Exception {
-		PropertyConfigurator.configureAndWatch(SampleConsoleClient.class.getResource("log.properties").getFile(), 5000);
 		UaClient client = new UaClient("opc.tcp://localhost:52520/OPCUA/SampleConsoleServer");
 		client.setSecurityMode(SecurityMode.NONE);
 		initialize(client);
